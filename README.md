@@ -69,3 +69,45 @@ The Horse Valley Resort app provides a convenient way for users to explore and e
    
 4. **Contact Us Page**:
    - Provides information about the resort and allows users to contact the resort.
+
+
+## Installation
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/shinydidde/ionic-ios-app
+   ```
+2. Navigate to the folder:
+
+   ```bash
+   cd ionic-ios-app
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Run the application:
+
+   ```bash
+   ionic serve
+   ```
+5. Build the application:
+
+   ```bash
+   ionic build
+   ```
+6. Adding ios build and opening Xcode:
+
+   ```bash
+   npx cap add ios
+   ionic cap sync ios
+   npx cap open ios
+   ```
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit issues or pull requests for any enhancements or bug fixes.
