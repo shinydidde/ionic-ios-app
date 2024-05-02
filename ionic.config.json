@@ -1,5 +1,7 @@
 {
   "name": "Horse Valley Resort",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "react-vite"
 }
